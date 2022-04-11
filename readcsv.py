@@ -1,10 +1,9 @@
 import csv
+import pandas as pd
 
-dataArr = []
-with open('export.csv','r')as f:
-  data = csv.reader(f)
-  for row in data:
-        dataArr.append(row[0])
 
-dataArr.pop(0)
-print(dataArr)
+file = 'data-files/airbnb_clean.csv'
+data = pd.read_csv(file)
+
+
+print(list(data.columns))
