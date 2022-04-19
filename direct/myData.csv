@@ -1,5 +1,6 @@
 host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommodates,bedrooms,beds,minimum_nights,number_of_reviews,review_scores_rating,review_scores_accuracy,review_scores_cleanliness,review_scores_checkin,review_scores_communication,review_scores_location,review_scores_value,longitude,latitude,price,host_is_superhost,instant_bookable
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,3.0,3.0,38.0,4.84,4.94,4.97,4.93,4.94,4.97,4.83,10.72455,59.91201,1999.00,False,False
+2.0,Sagene,Entire rental unit,Entire home/apt,3.0,1.0,1.0,28.0,9.0,4.78,4.75,4.75,5.0,5.0,4.5,4.75,10.77397,59.94059,1399.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,3.0,1.0,2.0,4.0,50.0,4.73,4.67,4.79,4.98,4.93,4.67,4.81,10.77987,59.90795,501.00,False,False
 8.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,3.0,5.0,63.0,4.73,4.75,4.6,4.69,4.81,4.42,4.66,10.77232,59.91074,821.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,4.0,3.0,20.0,4.85,4.65,4.8,4.65,4.75,4.7,4.58,10.75521,59.91818,1302.00,False,False
@@ -33,6 +34,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,6.0,3.0,4.0,4.0,1.0,4.0,4.0,3.0,5.0,5.0,4.0,4.0,10.76943,59.92704,1100.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,1.0,2.0,192.0,4.88,4.93,4.82,4.98,4.99,4.91,4.8,10.75312,59.91756,851.00,False,False
 1.0,Nordstrand,Entire townhouse,Entire home/apt,6.0,3.0,6.0,3.0,8.0,4.86,4.86,4.71,5.0,4.86,4.83,4.67,10.7601,59.8787,2000.00,False,False
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,30.0,25.0,4.63,4.75,4.71,4.78,4.71,4.38,4.5,10.79677,59.91133,800.00,False,False
 2.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.71634,59.91559,702.00,False,False
 2.0,Frogner,Entire loft,Entire home/apt,3.0,1.0,2.0,4.0,12.0,4.92,4.92,4.92,5.0,5.0,5.0,4.92,10.71693,59.91635,1164.00,False,False
 1.0,Grünerløkka,Private room in rental unit,Private room,1.0,1.0,1.0,1.0,516.0,4.7,4.88,4.86,4.89,4.88,4.83,4.72,10.7548,59.91753,714.00,True,True
@@ -40,10 +42,13 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,6.0,69.0,4.75,4.77,4.84,4.89,4.91,4.81,4.76,10.72785,59.92565,850.00,False,True
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,13.0,4.69,4.92,4.69,4.92,4.92,4.69,4.69,10.7741,59.91561,1000.00,False,False
 2.0,Frogner,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,352.0,4.89,4.93,4.77,4.97,4.98,4.91,4.88,10.70542,59.91987,600.00,True,True
+1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,9.0,4.57,4.43,4.71,4.71,4.14,5.0,4.57,10.77064,59.9255,850.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,7.0,6.0,5.0,5.0,5.0,5.0,5.0,4.67,5.0,10.76207,59.92163,650.00,False,True
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,14.0,4.75,4.92,4.85,5.0,4.62,4.92,4.85,10.76373,59.92752,960.00,False,False
 1.0,Nordstrand,Entire residential home,Entire home/apt,6.0,1.0,1.0,3.0,57.0,4.98,4.93,4.98,4.96,4.98,4.93,4.93,10.77761,59.8816,1253.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,32.0,4.87,4.87,4.86,4.87,4.93,4.87,4.67,10.73441,59.92968,708.00,False,False
+3.0,Frogner,Private room in rental unit,Private room,1.0,1.0,2.0,30.0,129.0,4.84,4.86,4.93,4.95,4.93,4.83,4.83,10.70101,59.91945,331.00,False,True
+3.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,3.0,30.0,11.0,4.27,4.64,4.45,4.73,4.91,4.91,4.73,10.70141,59.91924,1704.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,3.0,3.0,394.0,4.82,4.92,4.69,4.7,4.86,4.84,4.83,10.75545,59.92878,850.00,True,False
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,2.0,4.0,117.0,4.86,4.91,4.97,4.88,4.92,4.91,4.8,10.70445,59.92084,1200.00,True,False
 1.0,St. Hanshaugen,Private room in rental unit,Private room,1.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.74279,59.92498,450.00,False,False
@@ -88,11 +93,13 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,2.0,175.0,4.83,4.88,4.8,4.94,4.94,4.93,4.79,10.76053,59.92602,1007.00,True,False
 1.0,Sentrum,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,1.0,145.0,4.6,4.81,4.6,4.9,4.88,4.96,4.65,10.72485,59.91807,750.00,True,False
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,57.0,4.88,4.94,4.96,4.87,4.88,4.58,4.73,10.77745,59.91011,1129.00,False,False
+2.0,Nordre Aker,Private room in rental unit,Private room,2.0,1.0,1.0,30.0,16.0,4.25,4.5,4.06,4.75,4.63,4.25,4.38,10.79064,59.96339,225.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,7.0,4.83,4.83,5.0,5.0,5.0,5.0,4.83,10.77388,59.91724,840.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,2.0,4.0,115.0,4.58,4.69,4.74,4.7,4.75,4.37,4.61,10.77979,59.93033,849.00,False,True
 1.0,Frogner,Entire rental unit,Entire home/apt,6.0,3.0,5.0,4.0,12.0,5.0,5.0,5.0,5.0,5.0,5.0,4.92,10.70987,59.9199,1000.00,False,False
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,3.0,6.0,2.0,4.5,4.5,4.0,5.0,5.0,5.0,4.5,10.76423,59.92373,1250.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,23.0,4.74,4.78,4.61,4.68,4.83,4.82,4.77,10.76376,59.92806,550.00,False,False
+2.0,Gamle Oslo,Private room in rental unit,Private room,1.0,1.0,1.0,30.0,3.0,5.0,5.0,5.0,5.0,5.0,4.67,5.0,10.79355,59.90502,350.00,True,False
 1.0,Nordstrand,Entire residential home,Entire home/apt,4.0,1.0,2.0,3.0,78.0,4.9,4.87,4.88,4.94,4.97,4.87,4.82,10.77344,59.86827,1246.00,True,False
 1.0,Nordstrand,Entire residential home,Entire home/apt,8.0,4.0,7.0,3.0,16.0,4.88,4.75,4.94,5.0,4.93,4.8,4.8,10.79804,59.88485,1300.00,False,False
 3.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,1.0,3.0,5.0,5.0,5.0,4.75,4.75,5.0,4.5,4.75,10.76878,59.91693,419.00,False,False
@@ -144,6 +151,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,St. Hanshaugen,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.74499,59.93023,400.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,1.0,2.0,14.0,5.0,4.92,5.0,5.0,5.0,4.92,5.0,10.77224,59.92594,800.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,2.0,2.0,58.0,4.97,4.98,5.0,4.95,4.98,4.86,4.95,10.79606,59.90847,400.00,False,False
+2.0,Nordstrand,Entire rental unit,Entire home/apt,4.0,1.0,2.0,21.0,30.0,4.77,4.79,4.83,4.93,4.93,4.7,4.63,10.80587,59.85594,707.00,True,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,5.0,38.0,4.76,4.76,4.59,4.86,4.84,4.68,4.78,10.79957,59.9084,914.00,False,False
 1.0,St. Hanshaugen,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,113.0,4.82,4.91,4.68,4.95,4.94,4.9,4.85,10.74695,59.92518,401.00,True,False
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.71965,59.91641,1550.00,False,False
@@ -179,6 +187,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sentrum,Private room in condominium (condo),Private room,2.0,1.0,1.0,2.0,259.0,4.86,4.89,4.72,4.92,4.95,4.97,4.86,10.74472,59.91008,480.00,True,True
 2.0,Sagene,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,5.0,103.0,4.83,4.87,4.77,4.94,4.94,4.77,4.77,10.75447,59.92919,406.00,True,False
 1.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,2.0,1.0,30.0,4.8,4.8,4.7,4.8,4.83,4.83,4.63,10.75721,59.92461,814.00,False,False
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,27.0,4.96,5.0,5.0,5.0,5.0,4.89,4.89,10.76109,59.90703,1050.00,True,False
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,4.0,68.0,4.85,4.85,4.7,4.8,4.98,4.88,4.77,10.77162,59.9236,584.00,True,False
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,2.0,5.0,25.0,4.84,4.64,4.6,4.65,4.92,4.7,4.74,10.75792,59.9391,1000.00,False,False
 1.0,St. Hanshaugen,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,63.0,4.78,4.87,4.81,4.81,4.84,4.7,4.81,10.73455,59.92513,700.00,True,False
@@ -189,6 +198,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,114.0,4.95,4.94,4.83,4.95,4.92,4.99,4.89,10.75503,59.92455,848.00,True,False
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,2.0,4.0,3.0,21.0,4.86,5.0,4.81,4.95,5.0,5.0,4.81,10.76326,59.92799,1171.00,True,True
 1.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,444.0,4.59,4.71,4.61,4.78,4.81,4.56,4.69,10.77894,59.93119,410.00,False,False
+1.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,21.0,19.0,4.58,4.68,4.89,4.89,5.0,4.95,4.68,10.76238,59.92583,899.00,False,False
 4.0,Gamle Oslo,Private room in loft,Private room,2.0,1.0,1.0,1.0,242.0,4.84,4.85,4.93,4.94,4.96,4.72,4.68,10.76555,59.91382,1028.00,True,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,30.0,4.77,4.83,4.87,4.83,4.8,4.7,4.7,10.73264,59.92692,590.00,False,False
 1.0,Bjerke,Entire rental unit,Entire home/apt,4.0,2.0,2.0,4.0,29.0,4.88,4.96,4.69,4.85,4.85,4.77,4.92,10.8283,59.94814,650.00,False,False
@@ -203,15 +213,19 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Private room in condominium (condo),Private room,2.0,1.0,1.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.77514,59.93188,800.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,4.0,3.0,58.0,4.79,4.86,4.7,4.89,4.86,4.66,4.73,10.76862,59.91294,1020.00,True,False
 0.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,23.0,4.91,5.0,4.86,5.0,5.0,4.95,4.77,10.7791,59.91272,950.00,False,False
+3.0,Frogner,Private room in rental unit,Private room,1.0,1.0,1.0,30.0,40.0,4.85,4.78,4.93,4.98,4.95,4.93,4.88,10.70101,59.91945,451.00,False,False
 1.0,Frogner,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,8.0,5.0,5.0,5.0,5.0,5.0,5.0,4.71,10.71872,59.93059,550.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,7.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.76092,59.91954,764.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,6.0,3.0,3.0,7.0,7.0,4.83,4.67,4.83,5.0,5.0,5.0,5.0,10.71421,59.92579,1990.00,False,False
 4.0,Gamle Oslo,Entire rental unit,Entire home/apt,5.0,2.0,2.0,1.0,200.0,4.4,4.62,4.53,4.52,4.45,4.58,4.46,10.76669,59.90919,1221.00,False,True
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,1.0,1.0,2.0,248.0,4.86,4.95,4.83,4.89,4.98,4.69,4.82,10.77597,59.90633,757.00,False,False
+2.0,Sagene,Private room in rental unit,Private room,2.0,1.0,2.0,30.0,38.0,4.5,4.58,4.58,4.74,4.76,4.84,4.5,10.7596,59.92948,426.00,False,False
+2.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,2.0,30.0,70.0,4.47,4.67,4.52,4.7,4.63,4.83,4.61,10.75912,59.92836,495.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,31.0,4.87,4.97,4.97,4.87,4.94,4.87,4.84,10.77165,59.90353,850.00,False,False
 2.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,7.0,76.0,4.87,4.89,4.84,4.95,4.95,4.8,4.84,10.76236,59.91363,450.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,3.0,9.0,5.0,5.0,4.75,5.0,5.0,4.88,4.88,10.75596,59.91889,250.00,False,False
 1.0,Vestre Aker,Private room in residential home,Private room,2.0,1.0,1.0,1.0,7.0,4.86,5.0,4.86,4.86,5.0,4.86,4.29,10.67788,59.94433,590.00,False,False
+2.0,Nordre Aker,Private room in rental unit,Private room,2.0,1.0,1.0,30.0,9.0,4.67,4.44,4.67,4.56,4.89,4.78,5.0,10.78913,59.96394,249.00,False,False
 2.0,Søndre Nordstrand,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,75.0,4.82,4.92,4.85,4.86,4.89,4.56,4.89,10.79884,59.83914,450.00,True,False
 2.0,Vestre Aker,Private room in residential home,Private room,6.0,1.0,2.0,1.0,55.0,4.52,4.55,4.51,4.82,4.94,4.76,4.48,10.66651,59.96064,400.00,False,False
 1.0,Sagene,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,37.0,4.95,4.89,4.78,4.84,4.92,4.81,4.81,10.75876,59.94276,493.00,True,False
@@ -234,6 +248,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,23.0,4.91,4.9,5.0,4.95,4.9,4.76,4.76,10.76074,59.92827,600.00,False,False
 1.0,Gamle Oslo,Entire residential home,Entire home/apt,7.0,4.0,6.0,5.0,3.0,5.0,5.0,4.67,5.0,5.0,5.0,5.0,10.78482,59.91151,1390.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,7.0,3.0,4.0,3.0,31.0,4.96,4.89,5.0,4.93,4.93,4.81,4.85,10.76383,59.92582,1200.00,False,False
+1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,21.0,50.0,4.84,4.86,4.94,4.94,4.96,4.86,4.62,10.76188,59.93256,570.00,False,False
 1.0,Sagene,Private room in rental unit,Private room,1.0,1.0,1.0,6.0,19.0,4.89,4.94,5.0,4.94,5.0,4.94,4.83,10.77013,59.93606,431.00,True,False
 1.0,Vestre Aker,Private room in rental unit,Private room,1.0,1.0,1.0,1.0,24.0,4.71,4.83,4.08,5.0,5.0,4.83,4.67,10.70525,59.94111,500.00,False,False
 2.0,Sagene,Entire condominium (condo),Entire home/apt,9.0,4.0,9.0,6.0,6.0,4.83,5.0,5.0,5.0,5.0,5.0,5.0,10.76403,59.93432,1200.00,False,False
@@ -278,10 +293,14 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Gamle Oslo,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,66.0,4.86,4.89,4.92,4.97,4.97,4.89,4.86,10.77339,59.9123,485.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,5.0,2.0,2.0,7.0,3.0,5.0,5.0,5.0,5.0,5.0,4.67,5.0,10.74765,59.93255,1100.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,18.0,4.76,4.76,4.47,4.88,4.94,4.82,4.82,10.74441,59.92059,500.00,False,False
+1.0,Nordre Aker,Entire rental unit,Entire home/apt,2.0,1.0,2.0,30.0,7.0,4.71,5.0,4.43,5.0,4.86,4.57,4.14,10.71645,59.9563,600.00,False,False
 15.0,Sentrum,Private room in rental unit,Private room,3.0,1.0,2.0,3.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.74744,59.91027,1571.00,False,False
 0.0,Nordstrand,Entire residential home,Entire home/apt,4.0,1.0,4.0,2.0,8.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.78682,59.85014,690.00,False,False
 2.0,Vestre Aker,Entire rental unit,Entire home/apt,4.0,1.0,1.0,1.0,115.0,4.87,4.88,4.97,4.93,4.96,4.84,4.82,10.65116,59.97333,800.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,2.0,2.0,5.0,7.0,4.86,4.71,4.43,4.57,5.0,5.0,4.71,10.788,59.92386,700.00,False,False
+2.0,Frogner,Private room in rental unit,Private room,2.0,1.0,1.0,30.0,20.0,4.75,4.85,4.2,5.0,5.0,4.89,4.84,10.7229,59.92926,500.00,False,True
+1.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,21.0,1.0,4.0,4.0,5.0,5.0,5.0,4.0,5.0,10.77367,59.92278,800.00,False,False
+3.0,Frogner,Private room in rental unit,Private room,3.0,1.0,1.0,30.0,208.0,4.83,4.92,4.54,4.96,4.97,4.89,4.85,10.72478,59.92732,454.00,True,True
 1.0,Frogner,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,31.0,4.77,4.94,5.0,4.65,5.0,4.94,4.74,10.71798,59.91995,750.00,False,False
 2.0,Nordstrand,Entire residential home,Entire home/apt,3.0,1.0,2.0,2.0,174.0,4.76,4.87,4.86,4.92,4.95,4.77,4.79,10.75822,59.86452,698.00,True,True
 1.0,Nordstrand,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,3.0,5.0,5.0,4.67,5.0,5.0,5.0,4.67,10.81474,59.86607,500.00,False,False
@@ -295,6 +314,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,7.0,18.0,4.72,4.89,4.83,4.67,4.83,4.94,4.78,10.6906,59.91913,650.00,False,False
 1.0,Ullern,Entire rental unit,Entire home/apt,3.0,2.0,2.0,5.0,6.0,5.0,5.0,5.0,5.0,4.75,4.75,4.5,10.67872,59.92189,1890.00,False,False
 2.0,Sentrum,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,206.0,4.77,4.89,4.8,4.79,4.92,4.98,4.81,10.74451,59.9113,1143.00,False,False
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,28.0,88.0,4.66,4.81,4.66,4.88,4.91,4.75,4.74,10.76465,59.91133,900.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,2.0,3.0,2.0,41.0,4.93,4.95,4.95,5.0,4.98,4.73,4.95,10.78666,59.93174,556.00,True,False
 1.0,Grünerløkka,Private room in loft,Private room,2.0,2.0,1.0,1.0,152.0,4.79,4.88,4.89,4.91,4.93,4.91,4.74,10.75575,59.92777,500.00,True,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,2.0,3.0,4.0,8.0,4.83,5.0,5.0,5.0,5.0,4.8,5.0,10.74041,59.93476,1454.00,False,False
@@ -307,6 +327,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,3.0,3.0,2.0,366.0,4.93,4.93,4.98,4.96,4.98,4.87,4.85,10.76122,59.92108,1673.00,True,True
 1.0,Grünerløkka,Private room in rental unit,Private room,1.0,1.0,1.0,3.0,42.0,4.95,4.95,4.98,4.98,5.0,4.66,4.83,10.76799,59.93011,460.00,True,False
 1.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,276.0,4.45,4.61,4.41,4.77,4.83,4.79,4.39,10.75933,59.92173,421.00,False,True
+2.0,Sagene,Entire loft,Entire home/apt,2.0,1.0,1.0,28.0,15.0,4.93,5.0,4.87,4.87,4.93,4.73,4.8,10.7513,59.93485,708.00,True,False
 2.0,Østensjø,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,127.0,4.81,4.83,4.87,4.88,4.89,4.74,4.81,10.84719,59.88261,420.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,1.0,3.0,9.0,5.0,5.0,5.0,5.0,5.0,4.89,4.78,10.76831,59.92639,810.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,6.0,3.0,2.0,4.0,16.0,4.88,4.94,4.81,4.88,4.81,4.81,4.88,10.77285,59.92636,950.00,False,False
@@ -339,6 +360,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 3.0,Frogner,Private room in residential home,Private room,4.0,2.0,3.0,1.0,7.0,4.2,4.4,3.8,3.8,3.8,4.8,4.2,10.70001,59.90463,1500.00,False,False
 1.0,Grünerløkka,Entire residential home,Entire home/apt,7.0,4.0,3.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78541,59.91902,1478.00,False,False
 3.0,Frogner,Private room in residential home,Private room,6.0,2.0,3.0,2.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.7004,59.905,2000.00,False,False
+1.0,Ullern,Private room in rental unit,Private room,2.0,1.0,1.0,30.0,9.0,5.0,5.0,5.0,5.0,5.0,4.89,5.0,10.65986,59.93695,350.00,True,False
 1.0,Østensjø,Entire residential home,Entire home/apt,8.0,5.0,4.0,5.0,2.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.84634,59.89362,1500.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,38.0,4.85,4.82,4.65,4.97,4.94,4.88,4.82,10.73724,59.92383,764.00,False,False
 3.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,7.0,11.0,5.0,5.0,4.7,5.0,5.0,5.0,4.78,10.67865,59.92025,1000.00,False,False
@@ -349,6 +371,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Private room in residential home,Private room,1.0,1.0,1.0,5.0,49.0,4.92,4.96,4.98,4.91,4.98,4.89,4.85,10.696,59.91814,599.00,False,False
 1.0,Nordstrand,Entire rental unit,Entire home/apt,2.0,1.0,1.0,6.0,37.0,5.0,5.0,4.97,5.0,5.0,4.91,4.94,10.77848,59.89954,800.00,False,True
 1.0,Ullern,Entire rental unit,Entire home/apt,4.0,1.0,2.0,2.0,90.0,4.94,4.98,4.93,4.99,4.99,4.82,4.9,10.6713,59.93013,1029.00,True,False
+3.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,3.0,30.0,11.0,4.82,4.91,4.91,5.0,5.0,4.82,4.91,10.77221,59.92479,500.00,True,False
 1.0,Ullern,Private room in rental unit,Private room,1.0,1.0,1.0,1.0,103.0,4.62,4.75,4.71,4.87,4.87,4.91,4.7,10.67888,59.92359,557.00,False,False
 1.0,Østensjø,Entire rental unit,Entire home/apt,5.0,1.0,3.0,2.0,40.0,4.9,4.98,4.93,4.98,4.95,4.78,4.9,10.81509,59.90537,1286.00,False,True
 2.0,Grünerløkka,Private room in rental unit,Private room,3.0,1.0,1.0,2.0,25.0,4.88,4.84,4.88,4.84,4.88,4.92,4.96,10.77437,59.92033,500.00,False,True
@@ -388,11 +411,13 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,7.0,20.0,4.84,5.0,4.95,4.84,4.95,4.95,4.95,10.74066,59.91956,1143.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,2.0,3.0,249.0,4.76,4.87,4.59,4.93,4.93,4.91,4.79,10.7701,59.92503,714.00,False,True
 1.0,Nordre Aker,Entire rental unit,Entire home/apt,4.0,1.0,4.0,2.0,127.0,4.76,4.91,4.91,4.96,4.97,4.78,4.78,10.75054,59.96188,549.00,True,False
+1.0,Sagene,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,30.0,35.0,4.71,4.89,4.77,4.94,4.91,4.74,4.66,10.76364,59.93338,1000.00,False,False
 1.0,Sentrum,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,150.0,4.85,4.95,4.85,4.99,4.97,5.0,4.85,10.73771,59.91111,1200.00,False,False
 2.0,Nordre Aker,Entire residential home,Entire home/apt,4.0,1.0,1.0,1.0,2.0,4.5,5.0,5.0,5.0,5.0,5.0,4.0,10.73827,59.95318,550.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,1.0,1.0,4.0,20.0,4.76,4.88,4.71,4.94,5.0,4.71,4.82,10.79455,59.91119,750.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,6.0,2.0,4.0,3.0,31.0,4.87,4.87,4.74,4.87,5.0,4.94,4.84,10.75555,59.92442,2000.00,True,False
 2.0,Alna,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,28.0,4.58,4.73,5.0,4.85,4.65,4.52,4.69,10.84586,59.91526,700.00,False,False
+3.0,Sentrum,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.72569,59.91879,700.00,False,False
 6.0,Grünerløkka,Shared room in loft,Shared room,2.0,1.0,1.0,1.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.76289,59.91914,700.00,True,False
 2.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,3.0,38.0,4.76,4.81,4.43,4.89,4.89,4.73,4.78,10.79036,59.90366,420.00,False,False
 2.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,2.0,1.0,196.0,4.71,4.86,4.51,4.85,4.91,4.89,4.67,10.74403,59.91782,1300.00,False,False
@@ -424,8 +449,10 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,4.0,4.33,4.67,4.67,4.67,5.0,5.0,4.33,10.77037,59.92603,600.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,1.0,3.0,8.0,4.67,5.0,4.33,5.0,5.0,5.0,5.0,10.76332,59.91958,836.00,False,False
 2.0,Sagene,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,3.0,4.5,5.0,5.0,5.0,5.0,4.0,5.0,10.75752,59.9393,500.00,False,False
+3.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,30.0,14.0,4.92,4.92,4.85,5.0,4.92,4.62,4.85,10.78329,59.93274,708.00,False,False
 3.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.75766,59.9267,564.00,False,False
 1.0,St. Hanshaugen,Entire loft,Entire home/apt,7.0,3.0,3.0,3.0,17.0,4.19,4.25,4.13,4.19,4.56,4.56,4.31,10.74354,59.92422,1750.00,False,False
+2.0,Frogner,Entire rental unit,Entire home/apt,3.0,3.0,3.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.68987,59.92086,700.00,False,False
 2.0,Frogner,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,66.0,4.98,5.0,4.97,5.0,5.0,5.0,4.98,10.72134,59.93005,680.00,True,False
 2.0,Alna,Private room in residential home,Private room,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.8266,59.91169,1100.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,8.0,4.88,4.88,4.75,5.0,4.88,4.75,4.88,10.76766,59.9092,1850.00,False,False
@@ -449,6 +476,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Nordstrand,Entire rental unit,Entire home/apt,5.0,2.0,2.0,2.0,28.0,4.65,4.73,4.81,4.77,4.81,4.69,4.73,10.807,59.87548,914.00,False,False
 1.0,Vestre Aker,Entire villa,Entire home/apt,8.0,4.0,9.0,5.0,3.0,5.0,5.0,4.67,5.0,5.0,4.5,5.0,10.6628,59.95238,2000.00,False,False
 2.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.73268,59.92152,995.00,True,False
+1.0,Nordre Aker,Private room in rental unit,Private room,1.0,1.0,1.0,30.0,54.0,4.87,4.89,4.85,4.92,4.92,4.81,4.87,10.73921,59.94427,415.00,True,False
 3.0,Frogner,Entire rental unit,Entire home/apt,7.0,2.0,5.0,1.0,343.0,4.56,4.74,4.53,4.89,4.88,4.83,4.68,10.71163,59.93368,980.00,False,False
 2.0,Østensjø,Entire condominium (condo),Entire home/apt,2.0,1.0,2.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.8392,59.89374,800.00,False,False
 2.0,St. Hanshaugen,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,10.73349,59.93,531.00,False,False
@@ -546,6 +574,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Grünerløkka,Entire loft,Entire home/apt,3.0,1.0,1.0,2.0,4.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.75664,59.92648,1586.00,False,False
 1.0,Grünerløkka,Private room in rental unit,Private room,1.0,1.0,2.0,1.0,46.0,4.98,4.96,4.91,4.98,4.93,4.98,4.91,10.7623,59.9201,490.00,False,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,7.0,3.0,3.0,1.0,124.0,4.49,4.44,4.59,4.73,4.88,4.72,4.43,10.76099,59.91617,1557.00,False,False
+1.0,Nordstrand,Entire rental unit,Entire home/apt,6.0,2.0,2.0,30.0,71.0,4.8,4.77,4.73,4.94,4.86,4.83,4.68,10.76,59.86719,1500.00,False,False
 1.0,Østensjø,Entire residential home,Entire home/apt,5.0,4.0,4.0,3.0,51.0,4.9,4.88,4.88,4.96,4.98,4.8,4.88,10.80797,59.90348,1204.00,True,True
 2.0,Vestre Aker,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,3.0,4.67,5.0,5.0,5.0,5.0,5.0,4.67,10.65282,59.95331,1450.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,6.0,7.0,4.86,5.0,4.57,5.0,5.0,5.0,5.0,10.75233,59.9258,1000.00,False,False
@@ -566,6 +595,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,8.0,2.0,2.0,2.0,134.0,4.7,4.77,4.38,4.78,4.76,4.77,4.71,10.76013,59.9157,1214.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,1.0,2.0,3.0,95.0,4.9,4.95,4.91,4.96,4.97,4.95,4.83,10.72249,59.91452,990.00,True,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,1.0,3.0,28.0,4.29,4.32,4.29,4.67,4.81,4.52,4.19,10.75439,59.91541,1650.00,False,False
+1.0,Søndre Nordstrand,Private room in residential home,Private room,5.0,3.0,5.0,30.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.80947,59.83157,1643.00,False,False
 3.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,15.0,4.86,4.93,5.0,5.0,5.0,4.93,5.0,10.75222,59.90299,1200.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,128.0,4.58,4.73,4.53,4.89,4.93,4.81,4.53,10.75331,59.92686,890.00,False,False
 1.0,Søndre Nordstrand,Private room in rental unit,Private room,6.0,1.0,2.0,1.0,66.0,4.78,4.75,4.92,4.86,4.76,4.59,4.8,10.83145,59.84902,1000.00,False,False
@@ -620,6 +650,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,39.0,4.95,4.97,4.9,4.95,5.0,4.9,4.95,10.76454,59.91401,1023.00,True,False
 2.0,St. Hanshaugen,Private room in loft,Private room,2.0,1.0,1.0,2.0,25.0,4.5,4.58,4.75,4.5,4.83,4.83,4.52,10.74066,59.91925,500.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,8.0,2.0,2.0,4.0,9.0,5.0,4.78,4.78,5.0,5.0,4.89,5.0,10.77375,59.93485,1293.00,False,False
+0.0,Frogner,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,30.0,4.0,5.0,5.0,4.75,4.75,5.0,5.0,4.75,10.72268,59.92732,1300.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,1.0,1.0,6.0,25.0,4.92,4.96,4.96,4.84,5.0,4.88,4.88,10.71721,59.93407,939.00,True,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,82.0,4.88,4.91,4.89,4.95,4.91,4.89,4.94,10.73295,59.93051,652.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,1.0,2.0,16.0,3.0,4.33,4.0,5.0,5.0,5.0,5.0,5.0,10.72189,59.92125,652.00,False,False
@@ -628,7 +659,9 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,13.0,4.67,4.75,4.25,5.0,5.0,4.5,4.5,10.76336,59.9223,1800.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,3.0,2.0,1.0,4.0,5.0,5.0,5.0,5.0,4.5,5.0,4.75,5.0,10.76391,59.9258,950.00,False,False
 1.0,Vestre Aker,Entire rental unit,Entire home/apt,6.0,2.0,2.0,5.0,2.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.66161,59.94733,1000.00,False,False
+1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,3.0,2.0,1.0,30.0,3.0,5.0,5.0,4.67,5.0,5.0,4.67,5.0,10.74207,59.93469,800.00,False,False
 1.0,Frogner,Private room in boat,Private room,4.0,2.0,4.0,1.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.72487,59.90875,1949.00,False,True
+2.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,69.0,4.94,4.97,4.99,4.99,4.97,4.85,4.84,10.73939,59.93289,360.00,True,True
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,5.0,5.0,4.8,4.8,5.0,5.0,4.8,4.8,10.75058,59.92663,1200.00,False,False
 1.0,Marka,Entire rental unit,Entire home/apt,4.0,1.0,4.0,2.0,303.0,4.7,4.88,4.56,4.91,4.87,4.64,4.77,10.85025,59.8343,506.00,False,False
 1.0,Nordre Aker,Entire condominium (condo),Entire home/apt,4.0,2.0,3.0,2.0,14.0,4.86,4.92,4.79,4.92,4.92,4.77,4.92,10.79075,59.96363,680.00,False,False
@@ -668,8 +701,10 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,6.0,2.0,2.0,7.0,1.0,4.0,5.0,3.0,5.0,5.0,5.0,5.0,10.7798,59.9137,900.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,4.0,6.0,16.0,4.8,5.0,4.53,4.71,4.86,4.86,4.79,10.76377,59.92482,1450.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,2.0,20.0,13.0,4.75,4.92,4.67,5.0,5.0,4.83,4.83,10.70945,59.93096,1000.00,False,False
+3.0,Ullern,Entire rental unit,Entire home/apt,2.0,1.0,2.0,21.0,8.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.67842,59.92412,699.00,True,False
 1.0,Sagene,Shared room in rental unit,Shared room,3.0,1.0,2.0,3.0,2.0,2.0,3.0,1.0,4.0,2.0,5.0,2.0,10.76718,59.94312,600.00,False,False
 11.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,2.0,2.0,109.0,4.63,4.73,4.68,4.41,4.65,4.85,4.66,10.75184,59.91979,663.00,False,False
+1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,2.0,30.0,22.0,4.89,4.94,4.89,4.94,4.94,4.83,4.83,10.73625,59.92097,650.00,False,True
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,116.0,4.7,4.9,4.62,4.91,4.95,4.97,4.73,10.72233,59.90987,1643.00,False,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,30.0,4.8,4.97,4.53,4.97,4.97,4.9,4.83,10.7522,59.91784,500.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,1.0,30.0,4.71,4.79,4.25,4.81,4.82,4.93,4.52,10.76137,59.92656,990.00,False,False
@@ -685,6 +720,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 3.0,Ullern,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,53.0,4.52,4.63,4.71,4.78,4.71,4.64,4.47,10.66608,59.91977,690.00,False,True
 1.0,Grünerløkka,Private room in condominium (condo),Private room,2.0,1.0,2.0,3.0,111.0,4.93,4.95,4.98,4.97,4.94,4.99,4.86,10.76148,59.92631,437.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,1.0,1.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,10.75571,59.92409,682.00,False,True
+1.0,Bjerke,Entire residential home,Entire home/apt,6.0,3.0,3.0,27.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.81223,59.94647,700.00,False,True
 1.0,Nordre Aker,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,5.0,8.0,4.86,4.86,5.0,5.0,5.0,4.86,4.57,10.7824,59.94732,1250.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,6.0,2.0,3.0,3.0,24.0,4.83,4.75,4.83,4.92,4.96,5.0,4.79,10.71787,59.91259,2071.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,5.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.7878,59.90538,500.00,False,False
@@ -707,6 +743,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,2.0,5.0,38.0,4.65,4.86,4.86,4.92,5.0,4.97,4.47,10.72767,59.9243,750.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,21.0,4.95,4.95,4.9,5.0,4.95,4.71,4.86,10.72857,59.93528,800.00,False,False
 1.0,Nordstrand,Entire rental unit,Entire home/apt,4.0,1.0,1.0,2.0,68.0,4.85,4.9,4.91,4.97,4.95,4.73,4.8,10.80432,59.87477,500.00,True,False
+0.0,Nordstrand,Entire condominium (condo),Entire home/apt,4.0,3.0,3.0,30.0,1.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,10.78749,59.85242,1400.00,False,True
 1.0,Grorud,Entire residential home,Entire home/apt,6.0,3.0,5.0,4.0,11.0,4.9,4.9,5.0,5.0,5.0,4.8,5.0,10.88318,59.95865,1350.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,26.0,4.96,4.96,4.92,4.92,4.96,4.92,4.96,10.77926,59.92493,376.00,False,False
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,3.0,81.0,4.72,4.73,4.67,4.88,4.96,4.87,4.71,10.7512,59.92776,976.00,False,False
@@ -737,6 +774,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,4.0,5.0,4.67,4.33,4.67,4.67,4.67,4.67,10.75803,59.92691,1200.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,5.0,2.0,2.0,3.0,23.0,4.91,4.95,4.73,4.91,5.0,4.82,4.95,10.73336,59.9313,1000.00,True,False
 5.0,Østensjø,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,62.0,4.84,4.89,4.71,4.94,4.98,4.74,4.79,10.84542,59.88093,469.00,False,False
+0.0,Nordre Aker,Entire townhouse,Entire home/apt,6.0,2.0,2.0,21.0,24.0,4.79,4.88,4.92,4.96,4.96,4.63,4.71,10.80096,59.9494,600.00,False,True
 5.0,Østensjø,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,67.0,4.81,4.87,4.66,4.94,4.93,4.64,4.85,10.84533,59.88355,550.00,False,False
 5.0,Østensjø,Entire rental unit,Entire home/apt,7.0,3.0,3.0,1.0,5.0,4.4,4.8,4.2,4.8,4.8,4.8,4.8,10.84574,59.88146,1400.00,False,True
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,3.0,14.0,5.0,5.0,4.93,4.93,5.0,4.86,4.93,10.78724,59.92176,1800.00,False,False
@@ -749,6 +787,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sagene,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.75809,59.93738,1000.00,False,False
 4.0,Gamle Oslo,Private room in loft,Private room,6.0,1.0,3.0,1.0,16.0,4.94,4.81,5.0,5.0,5.0,4.94,4.88,10.76573,59.91372,1428.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,3.0,2.0,4.0,5.0,5.0,5.0,5.0,4.8,5.0,4.8,5.0,10.7686,59.92513,1500.00,False,False
+1.0,Vestre Aker,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,17.0,4.71,4.71,4.59,5.0,4.94,4.65,4.76,10.68899,59.95755,649.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,7.0,4.86,4.86,4.71,5.0,5.0,4.86,4.71,10.76521,59.92915,700.00,False,False
 2.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,43.0,4.69,4.74,4.79,4.9,4.86,4.95,4.71,10.72507,59.91442,565.00,False,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,2.0,2.0,92.0,4.95,4.9,4.74,4.87,4.95,4.84,4.9,10.74564,59.92921,993.00,True,False
@@ -784,12 +823,14 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,82.0,4.77,4.89,4.82,4.8,4.89,4.85,4.78,10.75044,59.93452,640.00,False,True
 23.0,Sentrum,Entire loft,Entire home/apt,6.0,2.0,3.0,2.0,284.0,4.84,4.91,4.87,4.86,4.97,4.97,4.69,10.745931,59.910679,1729.00,True,False
 3.0,St. Hanshaugen,Private room in rental unit,Private room,2.0,1.0,1.0,3.0,105.0,4.92,4.92,4.98,4.97,4.95,4.89,4.9,10.73206,59.93226,550.00,False,False
+2.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,21.0,25.0,4.68,4.8,4.64,4.88,4.92,4.96,4.8,10.77858,59.93048,550.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,30.0,4.93,4.93,4.83,4.93,5.0,4.97,5.0,10.76304,59.92443,950.00,True,False
 2.0,Søndre Nordstrand,Private room in rental unit,Private room,2.0,1.0,2.0,1.0,45.0,4.68,4.73,4.44,4.9,4.9,4.71,4.71,10.79291,59.84482,435.00,False,True
 3.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,7.0,229.0,4.58,4.74,4.89,4.78,4.85,4.77,4.6,10.76264,59.91359,650.00,False,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,8.0,4.88,4.88,4.5,4.88,4.88,4.88,4.5,10.73847,59.92387,800.00,False,False
 1.0,Bjerke,Entire rental unit,Entire home/apt,6.0,2.0,4.0,5.0,72.0,4.92,4.87,4.96,4.93,4.92,4.69,4.82,10.81534,59.93366,861.00,True,True
 2.0,Frogner,Entire rental unit,Entire home/apt,4.0,1.0,1.0,3.0,10.0,4.9,5.0,4.8,5.0,5.0,4.9,4.9,10.73166,59.92243,895.00,True,False
+19.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,4.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77853,59.92796,1692.00,False,True
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.79016,59.91877,600.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,1.0,1.0,1.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,4.5,4.75,10.76855,59.94175,614.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.75359,59.93662,850.00,False,False
@@ -805,6 +846,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.72436,59.92638,1000.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,72.0,4.72,4.96,4.81,4.82,4.9,4.82,4.82,10.73435,59.92866,700.00,False,True
 2.0,Nordstrand,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.79149,59.8839,1200.00,False,False
+0.0,Nordstrand,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78343,59.85067,850.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,11.0,5.0,5.0,5.0,5.0,4.9,5.0,4.9,10.77664,59.94411,600.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,6.0,110.0,4.77,4.85,4.88,4.89,4.95,4.92,4.73,10.76224,59.92543,486.00,True,True
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,1.0,2.0,5.0,10.0,4.5,4.2,4.6,5.0,5.0,4.9,4.5,10.72098,59.91091,1200.00,False,True
@@ -866,6 +908,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,2.0,2.0,3.0,20.0,4.74,4.79,4.42,4.95,4.95,4.79,4.79,10.77263,59.90411,599.00,False,False
 2.0,Grünerløkka,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,2.0,57.0,4.91,4.96,4.98,4.77,4.98,4.86,4.88,10.76639,59.92604,1290.00,True,False
 2.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,39.0,4.81,4.86,4.76,4.92,5.0,4.97,4.84,10.75369,59.9339,857.00,False,False
+1.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,2.0,30.0,70.0,4.93,4.96,4.91,4.99,4.97,4.97,4.87,10.72305,59.90871,1100.00,True,False
 1.0,Marka,Tent,Entire home/apt,3.0,1.0,3.0,1.0,39.0,4.79,4.92,4.85,4.95,5.0,4.87,4.51,10.81215,60.03894,500.00,True,False
 1.0,Gamle Oslo,Entire loft,Entire home/apt,3.0,1.0,1.0,3.0,10.0,5.0,5.0,4.9,5.0,5.0,5.0,5.0,10.7674,59.90717,913.00,False,False
 1.0,Grünerløkka,Private room in rental unit,Private room,3.0,1.0,3.0,2.0,179.0,4.84,4.89,4.91,4.93,4.93,4.87,4.75,10.76647,59.92523,786.00,True,False
@@ -889,6 +932,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Ullern,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,11.0,4.82,4.73,4.36,4.73,5.0,4.64,4.73,10.64065,59.92273,751.00,False,False
 1.0,Alna,Entire rental unit,Entire home/apt,6.0,3.0,4.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.89566,59.94857,700.00,False,True
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,2.0,3.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.76989,59.93704,700.00,False,False
+3.0,Vestre Aker,Entire rental unit,Entire home/apt,1.0,1.0,2.0,29.0,17.0,4.65,4.76,4.82,4.94,5.0,4.82,4.71,10.63681,59.95061,450.00,True,False
 1.0,Marka,Entire cabin,Entire home/apt,12.0,2.0,9.0,2.0,130.0,4.78,4.86,4.45,4.91,4.96,4.87,4.76,10.68441,60.00568,1429.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,1.0,1.0,2.0,45.0,4.73,4.8,4.76,4.76,4.91,4.89,4.78,10.70016,59.92051,1129.00,False,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,5.0,3.0,3.0,3.0,27.0,4.7,4.89,4.52,4.96,4.89,4.96,4.74,10.73754,59.92398,1250.00,False,False
@@ -907,6 +951,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 3.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,2.0,10.0,119.0,4.8,4.89,4.89,4.92,4.93,4.97,4.8,10.72254,59.9136,400.00,True,True
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,10.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.75206,59.90217,1000.00,False,False
 1.0,St. Hanshaugen,Entire loft,Entire home/apt,2.0,1.0,2.0,2.0,16.0,4.53,4.8,4.73,4.93,4.8,4.67,4.8,10.75461,59.91503,500.00,False,False
+1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,21.0,14.0,5.0,4.92,4.85,5.0,5.0,4.77,4.92,10.7748,59.92581,557.00,False,True
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,7.0,48.0,4.92,5.0,4.94,4.88,4.88,4.98,4.88,10.76216,59.9267,800.00,True,True
 1.0,Nordstrand,Entire condominium (condo),Entire home/apt,3.0,2.0,2.0,4.0,1.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,10.78613,59.89786,900.00,False,True
 1.0,Frogner,Entire rental unit,Entire home/apt,6.0,2.0,4.0,2.0,54.0,4.93,4.89,4.87,4.96,5.0,4.96,4.93,10.70189,59.91906,900.00,True,True
@@ -914,6 +959,9 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,3.0,15.0,4.8,5.0,4.53,4.87,5.0,4.53,4.93,10.79195,59.90894,690.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,24.0,4.63,4.88,4.96,4.54,4.83,4.63,4.67,10.78151,59.92986,779.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,16.0,5.0,5.0,5.0,4.94,5.0,4.94,4.88,10.72322,59.92542,1000.00,False,True
+10.0,Gamle Oslo,Entire serviced apartment,Entire home/apt,2.0,1.0,1.0,30.0,4.0,4.5,4.5,4.75,4.75,4.5,5.0,4.0,10.76149,59.9179,436.00,False,False
+10.0,Gamle Oslo,Room in serviced apartment,Hotel room,1.0,1.0,1.0,30.0,7.0,4.86,5.0,4.43,5.0,5.0,4.71,4.86,10.76149,59.9179,436.00,False,False
+10.0,Gamle Oslo,Room in serviced apartment,Hotel room,1.0,1.0,1.0,30.0,8.0,4.38,4.75,4.75,4.88,4.88,4.88,4.38,10.76149,59.9179,450.00,False,False
 1.0,Østensjø,Entire serviced apartment,Entire home/apt,6.0,4.0,6.0,1.0,19.0,4.89,4.89,4.89,4.72,4.78,4.61,4.61,10.81779,59.89206,950.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,5.0,1.0,2.0,2.0,13.0,4.69,4.85,5.0,5.0,5.0,4.77,4.92,10.76414,59.93871,750.00,False,False
 1.0,Nordstrand,Entire residential home,Entire home/apt,6.0,3.0,4.0,3.0,5.0,4.8,4.8,4.8,4.8,5.0,4.6,4.6,10.78471,59.88709,2000.00,False,False
@@ -926,6 +974,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,2.0,5.0,4.0,4.75,5.0,4.5,5.0,4.75,5.0,5.0,10.75984,59.92909,1328.00,False,True
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,6.0,3.0,3.0,7.0,10.0,5.0,5.0,4.89,5.0,5.0,4.89,4.89,10.78175,59.9128,1000.00,False,False
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,4.0,1.0,1.0,15.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78795,59.90208,1200.00,False,True
+10.0,Gamle Oslo,Room in serviced apartment,Hotel room,2.0,1.0,1.0,30.0,1.0,4.0,4.0,5.0,5.0,4.0,5.0,3.0,10.76195,59.91692,481.00,False,False
 2.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,7.0,5.0,5.0,4.8,4.8,5.0,5.0,4.4,10.73711,59.92725,937.00,False,False
 2.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.78135,59.91258,750.00,False,False
 1.0,Grorud,Entire residential home,Entire home/apt,5.0,3.0,3.0,1.0,5.0,4.5,5.0,4.75,5.0,4.75,4.75,4.75,10.87813,59.96482,1300.00,False,False
@@ -940,6 +989,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Nordre Aker,Entire townhouse,Entire home/apt,7.0,3.0,3.0,3.0,7.0,5.0,4.86,4.57,5.0,5.0,4.57,4.71,10.77493,59.96685,1500.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,3.0,2.0,2.0,1.0,47.0,4.87,4.96,4.89,4.89,4.98,4.91,4.87,10.74956,59.92032,1300.00,True,False
 1.0,Østensjø,Entire residential home,Entire home/apt,7.0,4.0,6.0,6.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.82513,59.90143,1300.00,False,True
+3.0,Grünerløkka,Private room in rental unit,Private room,1.0,1.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76682,59.91722,320.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,3.0,3.0,4.0,5.0,5.0,5.0,4.8,4.4,5.0,5.0,5.0,10.75438,59.93427,1050.00,False,False
 1.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,5.0,1.0,1.0,4.0,6.0,5.0,5.0,4.83,5.0,5.0,5.0,4.83,10.74824,59.93017,917.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,5.0,2.0,4.0,3.0,47.0,4.66,4.77,4.49,4.83,4.87,4.96,4.62,10.72388,59.91476,1132.00,False,False
@@ -949,6 +999,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Bjerke,Entire townhouse,Entire home/apt,3.0,2.0,2.0,4.0,3.0,4.67,4.67,5.0,4.67,5.0,5.0,4.67,10.85418,59.94433,841.00,False,False
 1.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,5.0,2.0,2.0,2.0,16.0,4.25,4.63,3.88,4.63,4.88,4.81,4.5,10.7371,59.92298,900.00,False,True
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,115.0,4.67,4.8,4.71,4.83,4.81,4.71,4.64,10.77605,59.91361,216.00,False,True
+1.0,Nordstrand,Entire cabin,Entire home/apt,2.0,1.0,1.0,30.0,14.0,4.77,4.85,4.54,4.92,4.69,4.92,4.92,10.75793,59.86301,500.00,False,True
 0.0,Sagene,Entire rental unit,Entire home/apt,5.0,3.0,3.0,3.0,11.0,4.82,5.0,4.09,4.91,5.0,5.0,5.0,10.75409,59.93098,607.00,True,False
 1.0,Sagene,Entire rental unit,Entire home/apt,5.0,3.0,4.0,4.0,9.0,4.78,4.89,4.78,4.67,4.89,4.89,4.89,10.76968,59.93611,1250.00,False,False
 17.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,23.0,4.3,4.43,4.39,4.91,5.0,4.83,4.22,10.73252,59.92725,786.00,False,False
@@ -1002,6 +1053,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,2.0,3.0,21.0,4.86,4.76,4.48,4.9,4.86,5.0,4.9,10.76628,59.92597,800.00,False,False
 0.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,2.0,7.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.71841,59.9275,1100.00,False,True
 1.0,Nordstrand,Cave,Entire home/apt,1.0,1.0,4.0,2.0,4.0,4.75,4.75,4.5,5.0,5.0,4.75,5.0,10.81691,59.86928,515.00,False,False
+10.0,Gamle Oslo,Entire serviced apartment,Entire home/apt,2.0,1.0,1.0,30.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,4.67,10.76325,59.91758,465.00,False,False
 2.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,1.0,4.0,2.0,18.0,4.94,4.94,4.75,4.94,4.88,4.75,4.88,10.77179,59.92048,1600.00,False,True
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77633,59.91386,890.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,34.0,4.97,4.97,4.85,4.91,5.0,4.88,5.0,10.75762,59.93194,829.00,True,False
@@ -1020,6 +1072,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,16.0,4.93,5.0,5.0,4.93,5.0,4.87,4.93,10.73096,59.92093,1350.00,True,False
 2.0,Sagene,Entire rental unit,Entire home/apt,9.0,2.0,3.0,1.0,67.0,4.66,4.7,4.78,4.54,4.73,4.67,4.63,10.76847,59.94746,1328.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,2.0,3.0,12.0,4.75,4.75,4.67,4.83,4.83,4.83,4.42,10.77348,59.93366,723.00,False,False
+1.0,Vestre Aker,Entire townhouse,Entire home/apt,2.0,1.0,1.0,30.0,20.0,4.89,4.83,4.94,4.83,4.94,4.5,4.61,10.68725,59.94363,500.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.7223,59.91344,1350.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,1.0,2.0,1.0,14.0,4.14,4.57,4.57,4.71,4.86,5.0,4.14,10.75844,59.91849,921.00,False,False
 1.0,Stovner,Private room in residential home,Private room,2.0,1.0,1.0,1.0,59.0,4.82,4.93,4.95,4.98,4.86,4.75,4.79,10.91402,59.94345,500.00,True,True
@@ -1097,6 +1150,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,St. Hanshaugen,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,13.0,5.0,5.0,5.0,4.91,5.0,5.0,4.82,10.74029,59.91773,531.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,38.0,4.89,4.95,4.74,4.97,4.97,4.84,4.76,10.75267,59.92963,600.00,True,True
 1.0,Nordstrand,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,24.0,4.83,4.92,4.88,4.88,5.0,4.71,4.92,10.81307,59.86543,359.00,False,False
+1.0,Vestre Aker,Private room in residential home,Private room,1.0,1.0,2.0,30.0,8.0,5.0,5.0,5.0,5.0,4.86,5.0,5.0,10.69428,59.96113,450.00,False,True
 1.0,Vestre Aker,Private room in residential home,Private room,3.0,1.0,2.0,2.0,1.0,5.0,3.0,5.0,5.0,5.0,4.0,5.0,10.68913,59.94271,700.00,False,True
 4.0,Sentrum,Entire rental unit,Entire home/apt,3.0,1.0,3.0,1.0,106.0,4.78,4.91,4.79,4.85,4.92,4.92,4.65,10.72646,59.91931,443.00,False,False
 2.0,Ullern,Entire rental unit,Entire home/apt,3.0,1.0,2.0,2.0,3.0,3.0,3.67,3.67,3.67,4.0,4.0,2.33,10.65444,59.92033,749.00,False,False
@@ -1108,6 +1162,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Vestre Aker,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,1.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0,10.65314,59.94921,400.00,False,False
 1.0,Frogner,Private room in rental unit,Private room,1.0,2.0,2.0,1.0,1.0,5.0,5.0,2.0,5.0,5.0,5.0,5.0,10.68628,59.91812,990.00,False,True
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,1.0,3.0,2.0,75.0,4.95,4.96,4.85,4.92,4.99,4.89,4.89,10.7645,59.91176,700.00,True,False
+10.0,Gamle Oslo,Entire serviced apartment,Entire home/apt,1.0,1.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76117,59.91824,465.00,False,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,136.0,4.5,4.7,4.57,4.67,4.77,4.66,4.53,10.77177,59.90201,490.00,False,True
 1.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,2.0,4.0,11.0,5.0,4.82,4.82,5.0,5.0,4.91,4.82,10.72496,59.91635,1600.00,False,False
 1.0,Frogner,Entire condominium (condo),Entire home/apt,6.0,3.0,3.0,3.0,95.0,4.92,4.99,4.94,4.77,4.95,4.94,4.86,10.73181,59.92047,1950.00,False,False
@@ -1123,10 +1178,12 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Alna,Entire rental unit,Entire home/apt,4.0,2.0,2.0,3.0,17.0,4.76,4.82,4.82,4.94,4.94,4.53,4.65,10.81378,59.9208,1050.00,False,False
 1.0,St. Hanshaugen,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,23.0,4.96,4.96,5.0,5.0,4.91,5.0,4.87,10.73396,59.92833,450.00,True,False
 2.0,Frogner,Entire rental unit,Entire home/apt,6.0,2.0,2.0,7.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.71963,59.91863,1200.00,False,False
+1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,5.0,4.0,4.2,3.0,5.0,4.6,4.8,4.0,10.76763,59.92993,467.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,29.0,4.96,4.85,4.7,4.93,4.85,4.59,4.74,10.79499,59.92178,595.00,False,False
 1.0,Bjerke,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.85156,59.94497,800.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,6.0,46.0,4.78,4.87,4.57,4.85,4.98,4.98,4.83,10.74163,59.91762,720.00,False,False
 2.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.74093,59.93338,850.00,False,False
+1.0,Vestre Aker,Entire rental unit,Entire home/apt,2.0,1.0,2.0,25.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.68605,59.94293,650.00,False,False
 12.0,Frogner,Private room in condominium (condo),Private room,2.0,1.0,2.0,1.0,42.0,4.55,4.67,4.98,4.81,4.74,4.98,4.76,10.72349,59.90713,709.00,True,False
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,2.0,2.0,1.0,16.0,4.75,4.88,4.5,4.75,4.88,4.88,4.88,10.75497,59.92617,900.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,51.0,4.8,4.9,4.68,4.82,4.96,4.84,4.8,10.77607,59.90253,325.00,False,True
@@ -1134,6 +1191,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,65.0,4.88,4.94,4.88,4.94,4.94,4.86,4.8,10.760306,59.907124,1329.00,True,False
 1.0,Frogner,Private room in rental unit,Private room,1.0,1.0,1.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.71405,59.91677,290.00,False,True
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,2.0,3.0,33.0,4.21,4.58,4.12,4.67,4.79,4.91,4.33,10.75404,59.93108,450.00,False,False
+2.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,21.0,24.0,4.88,4.92,5.0,4.67,4.92,4.92,4.88,10.7117,59.91635,720.00,True,True
 3.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,6.0,4.83,5.0,5.0,5.0,5.0,5.0,4.67,10.76857,59.91102,850.00,True,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,7.0,4.6,5.0,3.8,4.6,4.8,5.0,4.2,10.74062,59.92013,650.00,False,False
 0.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,2.0,82.0,4.79,4.85,4.47,4.6,4.77,4.88,4.83,10.77863,59.91367,670.00,False,False
@@ -1146,12 +1204,14 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,2.0,4.0,18.0,4.89,4.89,4.83,5.0,5.0,4.67,4.72,10.77478,59.93424,689.00,True,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,31.0,5.0,4.83,4.9,5.0,4.97,4.93,4.9,10.78307,59.91525,1850.00,True,False
 1.0,Grünerløkka,Private room in rental unit,Private room,4.0,1.0,1.0,2.0,28.0,4.96,4.93,4.93,4.96,4.93,4.96,4.96,10.75851,59.92104,599.00,True,True
+1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,2.0,21.0,11.0,4.73,4.82,4.45,4.91,4.91,5.0,4.82,10.76446,59.92061,620.00,True,False
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,3.0,4.67,4.67,4.0,4.67,5.0,4.33,4.33,10.7514,59.93417,1150.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,13.0,4.82,4.73,4.64,5.0,5.0,5.0,4.91,10.76325,59.92284,903.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,6.0,4.6,5.0,4.2,4.8,5.0,5.0,4.8,10.76654,59.91709,850.00,False,False
 2.0,Vestre Aker,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,14.0,4.64,4.79,4.93,4.79,4.86,4.86,4.64,10.64343,59.94638,620.00,True,False
 2.0,St. Hanshaugen,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,4.0,4.67,4.67,4.67,5.0,5.0,4.67,4.67,10.74552,59.92438,600.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,2.0,7.0,31.0,4.97,4.97,4.74,5.0,5.0,4.94,4.87,10.75467,59.91812,1100.00,True,True
+10.0,Grünerløkka,Room in serviced apartment,Hotel room,1.0,1.0,1.0,30.0,6.0,4.67,4.67,4.33,5.0,5.0,4.83,4.33,10.76041,59.91694,450.00,False,False
 2.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,1.0,6.0,6.0,4.83,5.0,4.67,5.0,5.0,5.0,4.83,10.76035,59.93167,900.00,True,False
 1.0,Bjerke,Entire rental unit,Entire home/apt,4.0,2.0,1.0,2.0,10.0,4.63,5.0,4.88,5.0,5.0,5.0,4.88,10.82546,59.94615,750.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,47.0,4.72,4.77,4.77,4.81,4.72,4.89,4.66,10.76245,59.91232,500.00,False,True
@@ -1197,6 +1257,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 75.0,Grünerløkka,Entire loft,Entire home/apt,1.0,1.0,1.0,3.0,46.0,4.43,4.85,4.85,4.85,4.65,4.93,4.63,10.75996,59.92483,763.00,False,True
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,3.0,4.0,7.0,4.86,4.86,4.86,5.0,4.71,5.0,4.86,10.77352,59.93387,500.00,False,False
 75.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,2.0,3.0,3.0,22.0,4.45,4.82,4.82,4.82,4.64,4.86,4.55,10.76213,59.92332,1260.00,False,True
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,27.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77129,59.90181,595.00,False,False
 1.0,Bjerke,Private room in rental unit,Private room,1.0,1.0,1.0,2.0,8.0,4.38,4.88,4.25,4.88,4.88,4.88,4.75,10.86181,59.94826,250.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,4.67,5.0,10.76962,59.92102,999.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,9.0,4.89,4.89,4.89,5.0,5.0,4.89,4.89,10.77645,59.90707,610.00,False,False
@@ -1204,12 +1265,15 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,St. Hanshaugen,Private room in rental unit,Private room,1.0,1.0,1.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,4.75,5.0,10.74771,59.92214,723.00,False,False
 1.0,Ullern,Private room in rental unit,Private room,1.0,1.0,2.0,1.0,19.0,4.79,4.68,4.53,4.95,4.95,4.84,4.74,10.66478,59.91847,306.00,False,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,3.0,2.0,71.0,4.83,4.97,4.87,4.92,4.97,4.68,4.75,10.76601,59.90082,940.00,True,False
+0.0,Nordstrand,Entire guest suite,Entire home/apt,1.0,1.0,1.0,28.0,3.0,5.0,5.0,5.0,5.0,5.0,4.33,5.0,10.81184,59.85286,355.00,False,False
+4.0,Nordstrand,Entire rental unit,Entire home/apt,3.0,2.0,2.0,30.0,1.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,10.82078,59.86918,500.00,False,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,5.0,2.0,3.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78775,59.9056,700.00,True,False
 2.0,Frogner,Private room in rental unit,Private room,3.0,1.0,1.0,2.0,29.0,4.72,4.86,4.93,4.72,4.9,4.93,4.86,10.72576,59.92146,729.00,False,True
 1.0,Vestre Aker,Entire rental unit,Entire home/apt,3.0,1.0,1.0,5.0,10.0,5.0,5.0,4.89,5.0,5.0,4.89,4.89,10.64426,59.9659,1500.00,False,False
 5.0,Gamle Oslo,Tent,Entire home/apt,2.0,1.0,2.0,2.0,3.0,5.0,4.67,4.67,5.0,5.0,5.0,5.0,10.77826,59.90202,1000.00,False,False
 2.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,2.0,4.0,57.0,4.86,4.91,4.88,4.79,4.96,4.89,4.89,10.73774,59.92373,950.00,True,True
 1.0,Sentrum,Private room in guest suite,Private room,1.0,1.0,1.0,6.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.7471,59.90845,1500.00,False,True
+10.0,Grünerløkka,Room in serviced apartment,Hotel room,1.0,1.0,1.0,30.0,3.0,4.0,4.67,4.67,5.0,5.0,5.0,4.0,10.76045,59.91687,475.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,4.0,4.75,4.75,5.0,5.0,5.0,5.0,5.0,10.75024,59.92117,560.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,4.0,1.0,2.0,3.0,6.0,4.33,4.83,4.17,5.0,5.0,4.83,4.33,10.76201,59.94537,899.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,6.0,3.0,4.0,3.0,3.0,4.67,5.0,3.67,5.0,5.0,4.67,4.33,10.79516,59.9287,1879.00,False,False
@@ -1371,6 +1435,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,5.0,2.0,3.0,6.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.73183,59.9267,1088.00,False,False
 1.0,Frogner,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,34.0,4.88,5.0,4.97,4.88,4.88,5.0,4.91,10.7257,59.91329,1800.00,True,False
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.72848,59.92519,500.00,False,True
+1.0,Vestre Aker,Entire condominium (condo),Entire home/apt,5.0,2.0,3.0,30.0,48.0,4.81,4.9,4.79,4.92,4.9,4.83,4.79,10.70076,59.94383,800.00,True,True
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,1.0,0.0,4.93,4.84,4.96,5.0,4.91,4.83,10.72246,59.91552,555.00,False,False
 1.0,Vestre Aker,Entire condominium (condo),Entire home/apt,6.0,1.0,2.0,14.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.66577,59.95241,1000.00,False,True
 12.0,Frogner,Private room in rental unit,Private room,2.0,1.0,2.0,1.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,10.72201,59.90705,749.00,True,False
@@ -1611,6 +1676,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Vestre Aker,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,3.0,4.67,5.0,4.33,5.0,5.0,5.0,5.0,10.66217,59.94855,564.00,False,False
 1.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,4.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77344,59.90411,1000.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,2.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.78239,59.90674,1286.00,False,False
+0.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,30.0,2.0,4.5,5.0,5.0,5.0,5.0,5.0,4.0,10.69983,59.91641,700.00,False,True
 2.0,Frogner,Entire rental unit,Entire home/apt,4.0,1.0,4.0,2.0,7.0,4.57,4.71,4.71,4.71,4.57,4.86,4.57,10.702161,59.916836,759.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,4.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.72492,59.92769,600.00,False,False
 0.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.33,10.75851,59.94129,1500.00,False,False
@@ -1637,6 +1703,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,1.0,3.0,2.0,26.0,4.76,4.64,4.72,4.8,4.88,4.64,4.56,10.77277,59.91059,777.00,False,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,2.0,4.0,5.0,4.8,5.0,5.0,5.0,5.0,5.0,5.0,10.77231,59.92111,500.00,False,False
 0.0,Sagene,Entire rental unit,Entire home/apt,3.0,2.0,2.0,2.0,17.0,4.82,4.88,4.88,4.88,5.0,4.88,4.88,10.76101,59.93734,1514.00,False,False
+1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,30.0,17.0,4.94,5.0,4.76,4.88,4.94,4.82,5.0,10.76882,59.90878,650.00,True,True
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,14.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.73835,59.92028,592.00,False,False
 2.0,Søndre Nordstrand,Private room in residential home,Private room,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.79747,59.84083,450.00,True,False
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,7.0,1.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.78423,59.91855,700.00,False,False
@@ -1673,6 +1740,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,2.0,7.0,7.0,4.86,5.0,5.0,5.0,5.0,4.86,4.86,10.71569,59.92882,1500.00,False,False
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,7.0,4.71,4.86,4.29,4.71,4.71,4.71,4.71,10.77609,59.90906,600.00,False,False
 6.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,3.0,4.33,4.67,4.0,3.67,3.67,5.0,4.67,10.72439,59.90792,1300.00,False,False
+1.0,Frogner,Private room in loft,Private room,4.0,1.0,2.0,30.0,10.0,4.9,4.9,4.9,4.8,4.9,4.8,5.0,10.73248,59.92054,700.00,False,False
 2.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,7.0,4.86,5.0,4.57,4.86,4.86,4.43,4.86,10.77703,59.91082,700.00,False,False
 1.0,Alna,Private room in condominium (condo),Private room,2.0,1.0,1.0,1.0,9.0,4.89,5.0,5.0,5.0,5.0,4.89,5.0,10.86936,59.92324,300.00,False,True
 2.0,Grünerløkka,Entire rental unit,Entire home/apt,5.0,1.0,3.0,7.0,3.0,4.33,5.0,3.67,5.0,5.0,5.0,4.33,10.75766,59.92477,1000.00,False,False
@@ -1698,6 +1766,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,1.0,2.0,2.0,23.0,4.61,4.61,4.91,4.83,4.87,4.83,4.61,10.76481,59.91837,1081.00,False,True
 0.0,Ullern,Entire rental unit,Entire home/apt,4.0,3.0,4.0,4.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.64079,59.92449,1000.00,True,False
 0.0,Bjerke,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,4.5,5.0,10.82604,59.94568,899.00,False,False
+0.0,Gamle Oslo,Entire rental unit,Entire home/apt,3.0,1.0,1.0,21.0,2.0,5.0,5.0,5.0,4.5,5.0,4.5,4.0,10.77812,59.90881,680.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.765822,59.917938,1371.00,False,False
 0.0,Vestre Aker,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,82.0,4.78,4.82,4.73,4.95,4.98,4.89,4.78,10.69391,59.9376,819.00,False,False
 3.0,Gamle Oslo,Entire rental unit,Entire home/apt,4.0,2.0,1.0,1.0,1.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,10.76291,59.90872,2000.00,False,False
@@ -1726,6 +1795,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,2.0,5.0,5.0,5.0,4.5,4.0,4.5,5.0,10.77036,59.91626,800.00,False,False
 0.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,1.0,1.0,3.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.74848,59.93052,1000.00,False,False
 0.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,4.0,1.0,1.0,2.0,14.0,4.79,4.86,4.79,4.79,4.86,4.79,4.79,10.78759,59.9006,847.00,False,False
+1.0,Alna,Entire guest suite,Entire home/apt,2.0,1.0,2.0,30.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.85207,59.92394,440.00,False,False
 0.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,5.0,20.0,4.65,4.8,4.8,4.85,4.95,4.85,4.45,10.75818,59.94491,536.00,True,False
 1.0,Alna,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.81744,59.91519,750.00,False,False
 1.0,Frogner,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,3.0,3.0,4.67,5.0,4.33,5.0,5.0,4.67,4.67,10.7124,59.91614,1150.00,False,False
@@ -1851,10 +1921,12 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Ullern,Entire rental unit,Entire home/apt,4.0,1.0,2.0,2.0,2.0,4.5,5.0,3.0,4.5,5.0,5.0,4.5,10.63055,59.92072,850.00,False,False
 1.0,Sagene,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,1.0,16.0,4.56,4.75,4.56,5.0,4.94,4.88,4.69,10.77432,59.94184,1557.00,False,False
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,3.0,7.0,5.0,5.0,5.0,5.0,5.0,4.86,4.71,10.76293,59.92829,1286.00,False,False
+0.0,Søndre Nordstrand,Entire townhouse,Entire home/apt,6.0,4.0,4.0,28.0,10.0,4.9,5.0,4.8,5.0,5.0,4.7,5.0,10.8047,59.82949,900.00,False,False
 1.0,Ullern,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,4.0,6.0,5.0,4.83,4.83,4.83,5.0,4.83,4.83,10.67897,59.92634,1400.00,False,False
 2.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,1.0,32.0,4.88,4.69,4.72,4.91,4.97,4.91,4.78,10.74752,59.91799,1131.00,True,False
 0.0,Bjerke,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,7.0,4.71,5.0,4.71,4.71,5.0,4.71,4.57,10.8274,59.93719,750.00,False,False
 2.0,Gamle Oslo,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77855,59.91227,459.00,False,False
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,5.0,5.0,5.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76326,59.91013,1500.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,2.0,5.0,5.0,4.5,5.0,5.0,5.0,4.5,10.77452,59.94178,800.00,False,False
 8.0,Grünerløkka,Entire serviced apartment,Entire home/apt,1.0,1.0,1.0,3.0,7.0,4.43,4.86,4.86,4.86,5.0,5.0,5.0,10.76789,59.92694,420.00,False,True
 2.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,3.0,3.0,8.0,5.0,4.88,4.88,4.88,5.0,4.75,4.75,10.76099,59.94475,1300.00,False,False
@@ -1878,6 +1950,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Sagene,Entire rental unit,Entire home/apt,8.0,4.0,5.0,4.0,7.0,5.0,5.0,5.0,5.0,5.0,4.86,5.0,10.76934,59.93611,1200.00,False,False
 1.0,Søndre Nordstrand,Entire townhouse,Entire home/apt,5.0,3.0,3.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.83983,59.82926,1800.00,False,False
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.78581,59.90722,900.00,True,False
+0.0,Vestre Aker,Entire rental unit,Entire home/apt,2.0,2.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.70561,59.95318,500.00,False,True
 3.0,Sagene,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,1.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,10.76814,59.94576,1300.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,2.0,5.0,3.0,5.0,5.0,5.0,5.0,4.67,5.0,5.0,10.77551,59.91366,664.00,False,False
 0.0,Gamle Oslo,Entire rental unit,Entire home/apt,6.0,3.0,3.0,7.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.7897,59.90264,1400.00,False,True
@@ -1944,6 +2017,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,3.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78629,59.91201,800.00,False,True
 0.0,Sagene,Entire rental unit,Entire home/apt,4.0,2.0,2.0,2.0,4.0,5.0,5.0,4.75,5.0,5.0,4.75,4.5,10.76402,59.94506,1243.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,4.0,4.0,5.0,5.0,4.75,4.75,4.5,5.0,5.0,10.74353,59.92525,900.00,False,False
+0.0,Alna,Entire rental unit,Entire home/apt,2.0,2.0,2.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.90038,59.94861,900.00,False,True
 1.0,Nordre Aker,Entire rental unit,Entire home/apt,4.0,1.0,2.0,5.0,10.0,4.7,5.0,5.0,5.0,4.9,5.0,4.9,10.73953,59.94567,1000.00,False,False
 1.0,St. Hanshaugen,Entire rental unit,Entire home/apt,4.0,2.0,2.0,10.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,10.74684,59.92757,1000.00,False,False
 1.0,Søndre Nordstrand,Entire guest suite,Entire home/apt,4.0,1.0,2.0,2.0,8.0,5.0,5.0,4.88,5.0,5.0,4.88,5.0,10.80739,59.84269,1150.00,True,False
@@ -1978,6 +2052,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 2.0,Østensjø,Entire rental unit,Entire home/apt,6.0,2.0,4.0,2.0,24.0,4.92,4.92,4.92,5.0,5.0,4.83,4.96,10.826,59.90264,1270.00,True,False
 0.0,Østensjø,Entire condominium (condo),Entire home/apt,8.0,5.0,5.0,4.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.85626,59.91156,1700.00,False,False
 0.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,5.0,5.0,5.0,4.8,5.0,4.8,4.8,5.0,10.75255,59.93014,553.00,False,False
+1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,30.0,2.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.77386,59.90278,500.00,False,False
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,1.0,1.0,1.0,3.0,9.0,4.44,4.44,4.56,4.56,4.67,4.67,4.44,10.74242,59.91874,569.00,False,True
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,2.0,3.0,20.0,4.4,4.4,4.55,4.55,4.55,4.55,4.5,10.74242,59.92071,629.00,False,True
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,2.0,3.0,17.0,4.59,4.65,4.71,4.71,4.47,4.82,4.47,10.74326,59.91929,629.00,False,True
@@ -2008,7 +2083,9 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,1.0,1.0,1.0,3.0,31.0,4.23,4.35,4.58,4.52,4.16,4.55,4.29,10.74152,59.92051,549.00,False,True
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,3.0,1.0,1.0,6.0,12.0,4.92,4.83,4.92,4.92,4.92,4.92,4.83,10.75599,59.92076,950.00,True,False
 0.0,Sagene,Private room in rental unit,Private room,2.0,2.0,2.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.75262,59.93424,450.00,False,True
+0.0,Frogner,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,30.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.72905,59.92182,850.00,False,True
 0.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.73004,59.92161,650.00,False,False
+0.0,Nordre Aker,Entire rental unit,Entire home/apt,5.0,3.0,3.0,30.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.75948,59.95553,966.00,False,False
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.72373,59.92831,700.00,False,True
 0.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,5.0,4.0,4.5,5.0,4.5,4.75,5.0,4.5,4.25,10.77321,59.90119,715.00,False,False
 1.0,Sagene,Entire rental unit,Entire home/apt,1.0,1.0,1.0,4.0,3.0,4.67,5.0,4.33,5.0,5.0,4.67,5.0,10.7611,59.93059,637.00,True,False
@@ -2073,6 +2150,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 3.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,6.0,6.0,5.0,5.0,4.67,4.83,5.0,5.0,4.83,10.76302,59.91695,943.00,False,True
 36.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,6.0,3.0,3.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.73269,59.93204,1900.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,9.0,3.0,4.67,5.0,4.67,5.0,5.0,5.0,4.67,10.76495,59.9319,510.00,False,False
+0.0,Nordre Aker,Private room in rental unit,Private room,1.0,1.0,2.0,30.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.74893,59.95135,170.00,False,False
 1.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,2.0,5.0,10.0,4.9,5.0,4.9,5.0,4.7,5.0,4.8,10.77166,59.90386,1000.00,True,False
 1.0,Alna,Entire rental unit,Entire home/apt,3.0,2.0,2.0,1.0,18.0,4.67,4.89,4.33,4.94,4.94,4.61,4.67,10.89163,59.94611,1000.00,True,False
 0.0,Frogner,Entire rental unit,Entire home/apt,7.0,3.0,3.0,3.0,15.0,4.87,4.93,4.73,4.8,5.0,5.0,4.87,10.72311,59.90867,1929.00,True,False
@@ -2114,6 +2192,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,38.0,4.34,4.5,4.53,4.82,4.71,4.84,4.5,10.74254,59.91865,669.00,False,True
 1.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.71811,59.91539,800.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,2.0,5.0,4.6,4.8,4.4,4.8,5.0,5.0,4.8,10.7477,59.92967,1200.00,False,False
+0.0,Vestre Aker,Entire condominium (condo),Entire home/apt,2.0,2.0,4.0,21.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.65341,59.98231,700.00,False,False
 0.0,Sentrum,Entire rental unit,Entire home/apt,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,10.747,59.91098,1399.00,False,False
 0.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,6.0,4.67,4.83,4.83,5.0,4.67,5.0,4.67,10.74572,59.91793,950.00,False,False
 0.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.72092,59.91159,400.00,False,False
@@ -2126,6 +2205,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 75.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,23.0,4.22,4.17,4.61,4.91,4.43,4.65,4.09,10.74147,59.91935,699.00,False,True
 0.0,Alna,Entire condominium (condo),Entire home/apt,3.0,1.0,5.0,2.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.85845,59.91193,650.00,False,False
 0.0,Sagene,Entire loft,Entire home/apt,2.0,1.0,1.0,2.0,13.0,4.85,5.0,5.0,4.92,4.85,4.85,4.77,10.76893,59.93727,1000.00,True,False
+0.0,Sagene,Entire rental unit,Entire home/apt,3.0,1.0,2.0,21.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76118,59.94588,1150.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,10.0,4.8,5.0,4.8,4.8,4.9,4.9,4.8,10.73353,59.93247,1000.00,False,False
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,1.0,1.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,10.76293,59.91902,427.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,1.0,1.0,2.0,9.0,5.0,5.0,5.0,5.0,5.0,4.89,5.0,10.79386,59.92804,1321.00,False,False
@@ -2242,6 +2322,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,St. Hanshaugen,Entire loft,Entire home/apt,2.0,1.0,1.0,2.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.73595,59.92097,1029.00,False,False
 1.0,Nordstrand,Entire loft,Entire home/apt,4.0,2.0,3.0,2.0,9.0,4.89,4.89,4.89,5.0,5.0,4.78,4.89,10.78471,59.85094,550.00,True,False
 0.0,Frogner,Entire rental unit,Entire home/apt,2.0,1.0,2.0,5.0,5.0,4.8,4.0,4.0,4.6,4.2,5.0,4.4,10.72123,59.90834,820.00,False,True
+36.0,Grünerløkka,Entire rental unit,Entire home/apt,4.0,2.0,2.0,21.0,4.0,4.75,4.75,4.25,4.75,4.75,4.75,4.75,10.75394,59.92798,900.00,False,False
 0.0,St. Hanshaugen,Entire loft,Entire home/apt,2.0,1.0,1.0,2.0,7.0,4.71,5.0,4.86,5.0,5.0,4.86,4.57,10.74823,59.9285,1250.00,False,False
 0.0,Nordre Aker,Entire condominium (condo),Entire home/apt,2.0,1.0,2.0,4.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78063,59.96439,1700.00,False,True
 1.0,Sagene,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,6.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77576,59.93299,1100.00,False,True
@@ -2344,6 +2425,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Sentrum,Entire condominium (condo),Entire home/apt,3.0,1.0,3.0,10.0,3.0,4.33,4.33,4.0,5.0,5.0,5.0,3.67,10.74627,59.91006,736.00,False,False
 0.0,Sagene,Entire rental unit,Entire home/apt,6.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.76744,59.93392,900.00,True,False
 0.0,Vestre Aker,Entire condominium (condo),Entire home/apt,4.0,3.0,3.0,7.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.66607,59.94292,1700.00,False,False
+0.0,Ullern,Entire residential home,Entire home/apt,6.0,3.0,3.0,30.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.69653,59.93525,900.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,1.0,6.0,4.5,4.33,3.33,5.0,5.0,4.83,4.83,10.78663,59.92949,400.00,False,True
 0.0,Bjerke,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,3.0,5.0,4.6,4.8,4.6,5.0,5.0,4.6,4.8,10.82015,59.94095,990.00,False,False
 1.0,Nordstrand,Entire rental unit,Entire home/apt,2.0,1.0,1.0,2.0,24.0,4.88,4.88,4.92,4.92,4.88,4.79,4.71,10.79931,59.86416,751.00,False,True
@@ -2461,6 +2543,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sagene,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,9.0,4.44,4.11,4.22,4.44,4.56,4.67,4.11,10.76151,59.92914,1386.00,False,True
 1.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,3.0,14.0,5.0,5.0,4.93,5.0,5.0,5.0,4.93,10.72528,59.91287,1657.00,False,False
 0.0,Sagene,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,4.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.76299,59.93413,2100.00,False,False
+0.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,21.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76577,59.91288,600.00,False,False
 0.0,Frogner,Entire condominium (condo),Entire home/apt,1.0,1.0,1.0,2.0,7.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.7133,59.92612,914.00,False,False
 0.0,Grünerløkka,Entire loft,Entire home/apt,3.0,2.0,2.0,3.0,3.0,4.67,5.0,5.0,4.67,5.0,5.0,4.67,10.75967,59.92608,1500.00,False,True
 2.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,2.0,2.0,5.0,5.0,5.0,5.0,5.0,4.5,5.0,10.79196,59.9309,1050.00,False,False
@@ -2507,6 +2590,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 1.0,Sentrum,Private room in condominium (condo),Private room,2.0,1.0,1.0,2.0,37.0,4.78,4.89,4.68,4.78,4.89,5.0,4.78,10.74246,59.91028,553.00,True,True
 1.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,7.0,3.0,2.0,2.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.73504,59.92291,1990.00,True,False
 2.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,2.0,5.0,3.0,4.67,5.0,4.33,5.0,5.0,5.0,4.67,10.75753,59.9237,554.00,False,False
+0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,30.0,4.0,4.0,4.25,3.75,4.75,4.5,4.75,4.25,10.76373,59.92454,726.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,4.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.74065,59.9179,1800.00,False,False
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,1.0,1.0,2.0,2.0,4.5,4.5,5.0,4.5,5.0,5.0,5.0,10.7825,59.93487,1071.00,False,False
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.8,4.8,10.77221,59.92514,991.00,False,False
@@ -2541,6 +2625,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,St. Hanshaugen,Entire rental unit,Entire home/apt,2.0,1.0,1.0,3.0,8.0,4.38,4.88,4.25,4.63,4.25,5.0,4.38,10.74066,59.91956,989.00,False,False
 0.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,2.0,14.0,2.0,4.0,4.0,2.5,5.0,5.0,5.0,4.0,10.70988,59.9174,889.00,False,False
 0.0,Frogner,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,5.0,2.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,10.71291,59.92622,850.00,False,False
+2.0,Sagene,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.775775117380933,59.934831287201014,780.00,True,False
 1.0,Søndre Nordstrand,Entire rental unit,Entire home/apt,2.0,1.0,2.0,1.0,3.0,3.67,3.67,3.67,3.67,3.67,3.33,3.67,10.84518,59.84242,600.00,False,True
 1.0,Nordstrand,Entire residential home,Entire home/apt,6.0,3.0,4.0,2.0,4.0,4.75,5.0,4.0,5.0,5.0,4.75,4.75,10.80781,59.85101,914.00,False,False
 1.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,3.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.71657,59.91619,1028.00,False,False
@@ -2607,6 +2692,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Frogner,Private room in condominium (condo),Private room,4.0,1.0,1.0,3.0,11.0,4.82,4.91,4.82,4.64,4.82,5.0,5.0,10.71021,59.91705,1214.00,False,False
 0.0,Ullern,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,1.0,4.0,4.5,4.75,4.25,5.0,5.0,4.5,4.75,10.65392,59.92731,1237.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,1.0,6.0,4.83,5.0,4.83,5.0,4.83,4.83,5.0,10.7381,59.92108,1400.00,False,False
+0.0,Søndre Nordstrand,Private room in condominium (condo),Private room,2.0,1.0,1.0,30.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.82453,59.85817,586.00,False,False
 0.0,Grünerløkka,Entire condominium (condo),Entire home/apt,5.0,2.0,3.0,2.0,6.0,5.0,5.0,4.83,5.0,4.67,5.0,5.0,10.76872,59.91589,1587.00,False,False
 1.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,3.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.73265,59.93044,987.00,False,True
 1.0,Gamle Oslo,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,1.0,24.0,4.96,5.0,4.88,4.96,4.96,5.0,4.92,10.76035,59.90498,1271.00,True,True
@@ -2848,6 +2934,7 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Frogner,Entire rental unit,Entire home/apt,3.0,2.0,2.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.712580522641659,59.9247692728982,1800.00,False,False
 0.0,Nordre Aker,Entire condominium (condo),Entire home/apt,3.0,2.0,2.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76553746170619,59.94735411381686,1040.00,False,False
 0.0,Ullern,Entire condominium (condo),Entire home/apt,5.0,1.0,2.0,1.0,3.0,4.67,5.0,4.33,5.0,5.0,4.33,4.67,10.656918718372351,59.927152273182,700.00,False,True
+0.0,Bjerke,Private room in residential home,Private room,10.0,10.0,2.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.797366159478942,59.93479320019017,200.00,False,False
 0.0,Grünerløkka,Private room in condominium (condo),Private room,3.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.77424,59.92388,551.00,False,False
 1.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.76277403565242,59.92688447107644,760.00,False,False
 1.0,Grünerløkka,Private room in rental unit,Private room,2.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.760653127364174,59.92745559650677,700.00,False,False
@@ -2864,10 +2951,12 @@ host_total_listings_count,neighbourhood_cleansed,property_type,room_type,accommo
 0.0,Frogner,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.715956743062293,59.919024008231844,929.00,False,False
 0.0,Grünerløkka,Entire rental unit,Entire home/apt,3.0,2.0,2.0,3.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.75876,59.92141,1429.00,False,True
 0.0,Nordre Aker,Entire condominium (condo),Entire home/apt,4.0,1.0,2.0,6.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.74598098370352,59.942648225742865,797.00,False,False
+1.0,Frogner,Entire rental unit,Entire home/apt,4.0,2.0,1.0,30.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.72035,59.92588,790.00,False,False
 0.0,Gamle Oslo,Entire rental unit,Entire home/apt,2.0,1.0,1.0,10.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.772544223255906,59.90724942482395,400.00,False,False
 0.0,St. Hanshaugen,Entire condominium (condo),Entire home/apt,2.0,1.0,1.0,7.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.746319741375189,59.917666049836676,1499.00,True,False
 0.0,Vestre Aker,Entire condominium (condo),Entire home/apt,5.0,3.0,3.0,2.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.70687,59.93358,850.00,False,False
 0.0,Vestre Aker,Entire rental unit,Entire home/apt,2.0,1.0,2.0,14.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.696013232085807,59.93675448230788,472.00,False,False
+1.0,Sagene,Entire rental unit,Entire home/apt,2.0,1.0,1.0,25.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.761959846019451,59.943150546834055,350.00,False,True
 1.0,Grünerløkka,Entire rental unit,Entire home/apt,2.0,1.0,1.0,4.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.751953930371887,59.92764941876887,750.00,False,False
 0.0,Grünerløkka,Shared room in condominium (condo),Shared room,1.0,1.0,1.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.774323962885575,59.922199984227106,400.00,False,True
 1.0,Grünerløkka,Entire condominium (condo),Entire home/apt,4.0,2.0,2.0,1.0,0.0,4.88,4.93,4.84,4.96,5.0,4.91,4.83,10.78868,59.9229,960.00,False,False
